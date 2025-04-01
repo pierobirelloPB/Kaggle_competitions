@@ -5,3 +5,6 @@ My submission for House Prices - Advanced Regression Techniques, Kaggle competit
 
 ## MNIST digit recognition
 First with sklearn.MLP, then with a CNN in Keras.
+
+## Natural Language Processing with Disaster Tweets
+First with traditional embeddings and classifiers, then fine-tuning ModernBERT.
